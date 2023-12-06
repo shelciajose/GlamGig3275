@@ -1,9 +1,8 @@
 # GlamGig3275
 
 User App : https://github.com/shelciajose/User_app
-Owner App : https://github.com/Sherin2210/Owner_app
+Stylist App :  https://github.com/Sherin2210/Owner_app
 
-Stylist App : 
 
 Steps to run the apps:
 
