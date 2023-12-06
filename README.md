@@ -1,5 +1,11 @@
 # GlamGig3275
 
+User App : https://github.com/shelciajose/User_app
+
+Stylist App : 
+
+Steps to run the apps:
+
 For Windows
 
 1)Install choco using cmd:
