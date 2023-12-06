@@ -27,12 +27,12 @@ Download Flutter:
 https://docs.flutter.dev/get-started/install/windows
 
 6) Run flutter
-  C:\path-to-flutter-sdk\bin\flutter
-  C:\path-to-flutter-sdk\bin\flutter.bat
-  C:\path-to-dart-sdk\bin\dart.exe        :: this should go after `C:\path-to-flutter-sdk\bin\` commands
-  C:\path-to-flutter-sdk\bin\dart
-  C:\path-to-flutter-sdk\bin\dart.bat
-  C:\src\flutter>flutter doctor
+   C:\path-to-flutter-sdk\bin\flutter
+   C:\path-to-flutter-sdk\bin\flutter.bat
+   C:\path-to-dart-sdk\bin\dart.exe        :: this should go after `C:\path-to-flutter-sdk\bin\` commands
+   C:\path-to-flutter-sdk\bin\dart
+   C:\path-to-flutter-sdk\bin\dart.bat
+   C:\src\flutter>flutter doctor
 
 ->Open the app on android studio
 ->on Terminal
