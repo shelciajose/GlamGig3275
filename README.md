@@ -38,3 +38,14 @@ https://docs.flutter.dev/get-started/install/windows
 ->on Terminal
     flutter pub get
     flutter run
+
+7) Reference Links:
+     flutter : https://docs.flutter.dev/get-started/install/windows
+     dart : https://dart.dev/get-dart
+     choco : https://chocolatey.org/install
+
+8) Admin panel
+
+   https://glamgigv1.ideasolved.com/admin/
+   user: jshelcia@gmail.com
+   password: Glamgig@123
